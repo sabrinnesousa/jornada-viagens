@@ -13,9 +13,13 @@ header {
   height: 64px;
 }
 
-.menu-hamburguer{
-    margin-top: 24px;
+.menu-hamburguer {
+  margin-top: 24px;
 }
-nav{
-    display: none;
+
+input[type="checkbox"]:checked ~ nav{
+  display: block;
+}
+nav {
+  display: none;
 }
