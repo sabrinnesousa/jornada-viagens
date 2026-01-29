@@ -5,8 +5,6 @@
   font-display: swap;
 }
 :root {
-  --primary-font: "Montserrat", sans-serif;
-
   --primary-color: #8f0101;
   --secondary-color: #b81515;
 
@@ -35,4 +33,8 @@ textarea {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
 }
