@@ -47,12 +47,12 @@
 }
 
 @media screen and (min-width: 1920px) {
-    .hero h2 {
+  .hero h2 {
     padding: 88px 160px;
     margin: 0;
     font-weight: var(--text-weight);
     font-size: 32px;
     text-align: center;
     line-height: 1.5;
-}
+  }
 }
